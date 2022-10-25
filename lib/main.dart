@@ -1,6 +1,7 @@
-// ignore_for_file: prefer_const_constructors
+// ignore_for_file: prefer_const_constructors, unused_import
 
 import 'package:all_app_sliders/screens/widget_01.dart';
+import 'package:all_app_sliders/screens/widget_02.dart';
 import 'package:flutter/material.dart';
 
 void main() {
